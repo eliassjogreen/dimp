@@ -1,0 +1,5 @@
+{
+    "imports": {
+        "denon/": "https://deno.land/x/denon/"
+    }
+}
